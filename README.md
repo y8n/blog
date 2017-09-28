@@ -1,6 +1,7 @@
 # Posts
 
 ## 2017
+- [[译]AngularJS Transclusion指南](https://github.com/y8n/blog/issues/6)
 - [理解 Virtual DOM ](https://github.com/y8n/blog/issues/5)
 
 ## 2016
